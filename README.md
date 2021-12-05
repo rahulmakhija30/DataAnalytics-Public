@@ -12,4 +12,4 @@ https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 
 The `1.csv` and `zomato.csv` are available in the following link <br />
-https://drive.google.com/drive/folders/1HnoShy8cLyllLIUjoE61Ux9tSGoM5w8B
+https://drive.google.com/drive/folders/1iRGDE1_yHknlq6xypOUOGxrAPrdYFqKL
